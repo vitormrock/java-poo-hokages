@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/preview.png" alt="Preview do projeto" width="100%">
+</p>
+
 # 🥷 Projeto Java — Hokages e Estratégias de Batalha
 
 Projeto desenvolvido em **Java** com foco em **Programação Orientada a Objetos**, utilizando personagens do universo Naruto para aplicar conceitos fundamentais usados no mercado.
