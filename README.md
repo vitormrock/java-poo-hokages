@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/preview.png" alt="Preview do projeto" width="100%">
+  <img src="assets/Gemini_Generated_Image_8xmibo8xmibo8xmi.png" alt="Preview do projeto" width="100%">
 </p>
 
 # 🥷 Projeto Java — Hokages e Estratégias de Batalha
